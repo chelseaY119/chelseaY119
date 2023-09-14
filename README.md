@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="https://media.tenor.com/30W6eFceX90AAAAC/banner.gif" alt="MasterHead" width="1000" height="500">
+    <img src="https://media.tenor.com/30W6eFceX90AAAAC/banner.gif" alt="MasterHead" width="1000" height="400">
 </a>
 
 <h1 align="center">Hi 🌿, I'm Chelsea(Ai) Yang</h1>
