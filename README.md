@@ -6,7 +6,7 @@
 <h3 align="center">A current BCIT CST student, UBC SBME alumni</h3>
 <br>
 <div style="display: flex; justify-content: space-between;">
-<img align="right" alt="coding img" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"> 
+<img align="right" alt="coding img" width="400" height="300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"> 
 <br>
 <br>
 <p align="center" margin=10px> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelseay119&row=2&column=3" alt="chelseay119" /></a> </p>
