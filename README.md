@@ -18,6 +18,7 @@
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+    <a href="https://www.leetcode.com/chelsy119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="chelsy119" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chelsy119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chelsy119" height="30" width="40" /></a>
 <a href="https://instagram.com/yo.ai7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yo.ai7" height="30" width="40" /></a>
 <a href="https://discord.gg/chelss_yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chelss_yy" height="30" width="40" /></a>
